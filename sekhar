@@ -25,9 +25,6 @@ background-color: #E6E6FA;
 <img alt="image" src="image.jpg" width="300" height="200">  
 </body>  
 </html> 
-
-// Your First Program
-
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello sekhar World!");
