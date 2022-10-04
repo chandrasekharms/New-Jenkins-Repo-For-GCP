@@ -15,7 +15,7 @@ background-color: #E6E6FA;
 }  
 </style>  
 <body>  
-<h1>Welcome</h1>  
+<h1>Welcome sekhar naidu</h1>  
 <ul class="points">  
   <li><a href="#">Home</a></li>  
   <li><a href="#">News</a></li>  
@@ -25,8 +25,3 @@ background-color: #E6E6FA;
 <img alt="image" src="image.jpg" width="300" height="200">  
 </body>  
 </html> 
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello sekhar World!");
-    }
-}
