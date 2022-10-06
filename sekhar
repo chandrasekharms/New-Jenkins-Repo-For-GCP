@@ -15,7 +15,7 @@ background-color: #E6E6FA;
 }  
 </style>  
 <body>  
-<h1>Welcome sekhar naidu</h1>  
+<h1>Welcome to sekhar naidu</h1>  
 <ul class="points">  
   <li><a href="#">Home</a></li>  
   <li><a href="#">News</a></li>  
